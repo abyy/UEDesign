@@ -311,7 +311,7 @@
     <control controlID="68" controlTypeID="com.balsamiq.mockups::RoundButton" x="935" y="561" w="178" h="71" measuredW="32" measuredH="32" zOrder="50" locked="false" isInGroup="-1">
       <controlProperties>
         <shape>parallelogram</shape>
-        <text>%u8BBE%u7F6E%u8F6C%u53D1%u6743%u9650</text>
+        <text>%u8BBE%u7F6E%u5206%u4EAB%u6743%u9650</text>
       </controlProperties>
     </control>
     <control controlID="69" controlTypeID="com.balsamiq.mockups::RoundButton" x="1619" y="35" w="178" h="71" measuredW="32" measuredH="32" zOrder="51" locked="false" isInGroup="-1">
@@ -468,7 +468,7 @@
     <control controlID="94" controlTypeID="com.balsamiq.mockups::RoundButton" x="935" y="667" w="178" h="71" measuredW="32" measuredH="32" zOrder="74" locked="false" isInGroup="-1">
       <controlProperties>
         <shape>diamond</shape>
-        <text>%u662F%u5426%u4ED8%u8D39%u6C42%u8F6C</text>
+        <text>%u662F%u5426%u4ED8%u8D39%u6C42%u5206%u4EAB</text>
       </controlProperties>
     </control>
     <control controlID="95" controlTypeID="com.balsamiq.mockups::Arrow" x="1019" y="738" w="10" h="35" measuredW="150" measuredH="100" zOrder="75" locked="false" isInGroup="-1">
